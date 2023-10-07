@@ -49,8 +49,8 @@
   "directories": {},
   "dependencies": {
     "node-git-hooks": "^1.0.1",
-    "prop-types": "^15.6.0",
-    "recyclerlistview": "^3.0.0"
+    "prop-types": "^15.8.0",
+    "recyclerlistview": "^4.2.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
